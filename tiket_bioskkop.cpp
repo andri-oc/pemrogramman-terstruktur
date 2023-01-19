@@ -4,9 +4,6 @@
 using namespace std;
 
 
-//  nama  : andre 
-// Npm : 2110010384
-// Kelar : 3G reg Bjm
 
 
 
